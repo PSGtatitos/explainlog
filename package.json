@@ -1,12 +1,20 @@
 {
   "name": "explainlog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AI-powered Linux log analyzer with a terminal UI",
   "type": "module",
   "bin": {
     "explainlog": "./src/index.js"
   },
-  "keywords": ["linux", "logs", "cli", "tui", "ai", "groq", "devtools"],
+  "keywords": [
+    "linux",
+    "logs",
+    "cli",
+    "tui",
+    "ai",
+    "groq",
+    "devtools"
+  ],
   "author": "PSGtatitos",
   "license": "MIT",
   "repository": {
