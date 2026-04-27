@@ -6,6 +6,8 @@
 
 A terminal-based Linux log analysis tool using AI-powered Groq.
 
+![explainlog demo](demo.gif)
+
 ## Description
 ExplainLog uses the Groq SDK to interact with the Groq AI Model. It takes log content as input, runs it through the model, and displays the analysis in a clear and concise format, including a summary, root cause, suggested fix, and severity classification.
 
